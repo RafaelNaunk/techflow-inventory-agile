@@ -1,4 +1,4 @@
-TechFlow Inventory – Sistema de Gerenciamento de Tarefas Ágil
+TechFlow Inventory – Sistema de Gerenciamento
 
 
 
@@ -6,7 +6,7 @@ Cliente fictício: Startup de Logística
 
 Fornecedor: TechFlow Solutions
 
-Disciplina: Engenharia de Software – Metodologias Ágeis
+Disciplina: Engenharia de Software 
 
 🎯 Objetivo
 
